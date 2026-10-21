@@ -12,3 +12,7 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print("Fahrenheit:", fahrenheit)
+
+# Change Task 2:
+if(fahrenheit<32):
+    print("It is below freezing temperature!")
