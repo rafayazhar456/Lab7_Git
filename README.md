@@ -1,4 +1,6 @@
-# Temperature Converter - Main Version
+
+# Temperature Converter
+
 Project Purpose: The purpose is to convert temperature from celsius to fahrenheit.
 How to Run: It can be run using any pyhton interpreter.
 Platform: The platform used for the project is Python which is a HLL.
